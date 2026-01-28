@@ -1,16 +1,13 @@
-## Hi there 👋
+Global Procurement  
 
-<!--
-**GAIBLE-Arthur/GAIBLE-Arthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GE Vernova (Central Procurement Team)
 
-Here are some ideas to get you started:
+I use  data analytics to drive global procurement strategies and ensure supply chain resilience. My goal is to transform complex datasets into actionable strategic insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Strategy & Ops: Data control for strategic sourcing and global supply chain optimization.
+
+Technical Stack: Knime, Dataiku (Python recipes), SQL, Alteryx.
+
+Execution: Power BI & Advanced Excel for executive-level reporting.
+
+Future Focus: Transitioning towards Palantir Foundry to orchestrate large-scale industrial strategies.
