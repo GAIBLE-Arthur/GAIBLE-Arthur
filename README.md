@@ -6,7 +6,7 @@ I use  data analytics to drive global procurement strategies and ensure supply c
 
 Strategy & Ops: Data control for strategic sourcing and global supply chain optimization.
 
-Technical Stack: Knime, Dataiku (Python recipes), SQL, Alteryx.
+Technical Stack: Knime, Dataiku (with Python recipes), SQL, Alteryx.
 
 Execution: Power BI & Advanced Excel for executive-level reporting.
 
