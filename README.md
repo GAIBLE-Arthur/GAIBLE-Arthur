@@ -6,14 +6,9 @@ I use  data analytics to enhance global procurement strategies and ensure supply
 
 Strategy and Ops: Data control for strategic sourcing and global supply chain optimization.
 
-Technical Stack: Knime, Dataiku (with Python recipes), 
-
-SQL (Basic and Power Architect), Alteryx.
+Technical Stack: Knime, Dataiku (with Python recipes), SQL (Basic and Power Architect), Palantir Foundry.
 
 Execution: Power BI and Advanced Excel for executive-level reporting.
 
-Future Focus: 
-
-Transitioning towards Palantir foundry to orchestrate large-scale industrial strategies.
 
 
